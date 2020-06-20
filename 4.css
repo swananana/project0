@@ -1,0 +1,30 @@
+p{
+    color: #c10000;
+    shadow: white;
+    text-shadow: grey;
+    text-align: center;
+
+}
+body {
+  background-image : url('https://blog.hostbaby.com/wp-content/uploads/2013/07/scuffedstatic_dark1400x900.jpg');;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+
+}
+h1{
+  font-family:Arial;
+  color: #eeeeee;
+  text-align: center;
+  text-decoration: none;
+  text-shadow: #833091;
+
+}
+@media only screen and (max-width: 600px) {
+  body {
+    background-image : url('https://blog.hostbaby.com/wp-content/uploads/2013/07/scuffedstatic_dark1400x900.jpg');;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+  }
+}

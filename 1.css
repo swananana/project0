@@ -1,0 +1,23 @@
+h1 {
+  font-family: Arial;
+  color: #eeeeee;
+  text-align: center;
+  text-decoration: none;
+  text-shadow: #833091; }
+
+body {
+  background-image: url("https://blog.hostbaby.com/wp-content/uploads/2013/07/scuffedstatic_dark1400x900.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover; }
+
+div h2 {
+  color: #d3d4d8;
+  text-align: center; }
+div h3 {
+  color: #dedede; }
+
+.sp {
+  color: #c10000; }
+
+/*# sourceMappingURL=1.css.map */
